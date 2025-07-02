@@ -36,3 +36,13 @@ Frontend:   cd frontend
 Default browser should auto-open at http://localhost:3000/
 
 Note: Test login is provided for testing purposes which bypasses authentication, otherwise, OAuth using GitHub is integrated.
+Here are some of the screen captures:
+![image](https://github.com/user-attachments/assets/4bf66935-67bb-496f-bdee-768da884e598)
+![image](https://github.com/user-attachments/assets/df18e984-c3b0-4537-ad21-b6f6a94638f1)
+![image](https://github.com/user-attachments/assets/e09983a3-5445-41fc-b22b-44cc94e35c6d)
+![image](https://github.com/user-attachments/assets/3fe67b69-902c-4630-81f2-4e6d1899553c)
+![image](https://github.com/user-attachments/assets/cb0fe45f-f97a-43f8-9264-3c943b49408f)
+![image](https://github.com/user-attachments/assets/acbbd800-725a-4703-9f6b-99a935c06c69)
+![image](https://github.com/user-attachments/assets/37ff0720-332e-4872-a5b3-8284fb08a63b)
+![image](https://github.com/user-attachments/assets/dc126952-5e09-4cc3-aec6-669370e7a29a)
+<img width="1111" alt="image" src="https://github.com/user-attachments/assets/2e75fbb0-26ca-4a74-8c67-3c59fc8eb4d8" />
