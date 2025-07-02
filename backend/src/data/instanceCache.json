@@ -1,0 +1,10 @@
+[
+  {
+    "id": "3",
+    "instanceName": "pg-free-003",
+    "adminUsername": "pgadmin003",
+    "adminPassword": "SecurePass789!",
+    "region": "centralus",
+    "host": "pg-free-003.postgres.database.azure.com"
+  }
+]
